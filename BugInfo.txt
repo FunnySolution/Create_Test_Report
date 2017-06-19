@@ -1,0 +1,19 @@
+[Graphics]
+
+55968	Serialization - Quake Champions/Magneto - the app crashed after the operation of serialization
+55969	FrameDebug - Quake Champions/Magneto - the replay window is blinking after pause&capture the frame
+55981	Launch - WorldOfTanks/Magneto - the app crashed after launched with nsight
+55989	Capture Next Frame - 3dmark_dandia/Magneto - the app crashed after clicked the menu "capture next frame"
+55991	Docs - Nsight 5.3 - the frametiming part about perfmarkers still existed
+56008	can't receive nsight crash report
+56009	Range Profiler - D3D12SmallResources/Magneto - the colored rectangles show blank view
+56015	GUI - IslandGL/Magneto - the words overlaped
+56017	Scrubber - ShowdownVRdemo/Magneto - Scaling drop-down list showed grey and only eventID can be displayed
+56019	Range Profiler - IslandGL4/Magneto - it failed to load profiler page
+56088	Launch - Mars 2030/Magneto - the app exited after pause&capture the frame
+56090	Serialization - Final Fantasy XV/Magneto - the app crashed after do serialization
+56096	BSOD issue - IslandGL4/Magneto - BSOD issue happened when checking the nsight features
+
+
+[CUDA]
+
